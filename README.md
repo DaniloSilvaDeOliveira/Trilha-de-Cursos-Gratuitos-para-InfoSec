@@ -94,6 +94,7 @@
 | [Entry-Level Cybersecurity Training](https://app.cybrary.it/browse/course/entry-level-cybersecurity-training) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Cybersecurity Basics](https://app.cybrary.it/browse/course/cybersecurity-fundamentals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Introduction to Cybersecurity](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses) | Palo Alto Networks | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [Vídeos das palestras BHack 2025 e apresentações OWASP Brasil](https://coneds.com.br) | Coneds | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 
 
 ### Programação + InfoSec
